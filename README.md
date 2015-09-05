@@ -6,3 +6,4 @@ Image backend using REST APIs for Nutanix Hackathon.
 1. Install django: Download django 1.8 from pypi. Run: sudo python setup.py install
 2. https://pypi.python.org/pypi/djangorestframework/3.2.3#downloads Install DRF.
 3. Using mysql to save images.
+4. Using curl for all command line rest testing. curl http://localhost:8000/users/ should resturn somehting.
